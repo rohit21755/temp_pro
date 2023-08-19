@@ -39,7 +39,7 @@ function App() {
         
         
         <div className="mt-4 font-semibold text-sm text-slate-500 text-center md:text-left mt-4">
-          Don't have an account? <a className="text-green-600 hover:underline hover:underline-offset-4" href="#">Register</a>
+          Don't have an account? <a className="text-green-600 hover:underline hover:underline-offset-4" href="/">Register</a>
         </div>
       </div>
     </section>
