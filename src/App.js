@@ -20,7 +20,7 @@ function App() {
             <input className="mr-1" type="checkbox" />
             <span>Remember Me</span>
           </label>
-          <a className="text-black hover:text-blue-700 hover:underline hover:underline-offset-4" href="#">Forgot Password?</a>
+          <a className="text-black hover:text-blue-700 hover:underline hover:underline-offset-4" href="/">Forgot Password?</a>
         </div>
         <div className="text-center md:text-left">
           <button className=" w-full mt-4 bg-green-600 hover:bg-blue-700 px-5 py-4 text-white uppercase rounded text-xs " type="submit">Login</button>
